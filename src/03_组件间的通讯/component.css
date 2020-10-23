@@ -1,0 +1,14 @@
+
+.home{
+    width: 400px;
+}
+
+.contain {
+    display: flex;
+    justify-content: space-around;
+}
+
+.item{
+    color: #f00;
+    border-bottom: 2px solid red;
+}
