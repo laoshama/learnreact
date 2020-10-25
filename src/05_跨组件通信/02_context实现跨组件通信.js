@@ -27,6 +27,7 @@
 //      - 这里，React组件 也可以订阅到 context 变更， 这能让你在 函数式组件 中完成订阅 context
 //      - 这里需要 函数作为子元素（function as child） 这种做法
 //      - 这个函数接收当前的 context值 ，返回一个 React 节点
+//      - 也可以使用在 类组件中
 
 import React, { Component } from 'react'
 
